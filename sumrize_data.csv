@@ -1,0 +1,133 @@
+Gender,Age_Group,Occupation,Frequency_of_Travelling,Ticket_type,Purpose,electronic_fund_transfer ,Ticketing_time,General_ervice,Existing_ticketing_system,passenger's_view,Implementation_of_smartcard
+Female,18-25,Student,Daily,Per Journey,Personal,Yes,Below 10 minutes,2.285714286,2,4.2,4
+Female,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Transport,No,10  - 15 minutes,2.142857143,2.714285714,4,4
+Female,18-25,Student,Daily,Per Journey,Personal,No,Below 10 minutes,3.142857143,3.428571429,4.2,4
+Male,18-25,Student,Daily,Per Journey,Transport,Yes,Below 10 minutes,2.857142857,2.857142857,3.8,4
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,10  - 15 minutes,2.857142857,2.714285714,4.8,5
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,15 - 20 minutes,3.428571429,3.285714286,4,4
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,10  - 15 minutes,3.285714286,2.714285714,3.6,3.333333333
+Female,18-25,Employed (Full-time/Part-time),A few times a year,Season,Transport,Yes,10  - 15 minutes,3.428571429,3,4.8,5
+Male,18-25,Employed (Full-time/Part-time),Daily,Reservations,"Personal, Holiday, Transport",Yes,Below 10 minutes,4,2.714285714,4.4,4.333333333
+Prefer not to say,18-25,Student,Daily,Reservations,Holiday,Yes,Above 20 minutes,3.428571429,3,3.6,4
+Female,18-25,Student,Daily,Reservations,"Personal, Holiday",Yes,10  - 15 minutes,3.285714286,2.285714286,4,4
+Male,18-25,Student,Weekly,Reservations,Transport,Yes,10  - 15 minutes,1.714285714,1.428571429,4.2,4.333333333
+Male,18-25,Student,Daily,Per Journey,Personal,Yes,10  - 15 minutes,3.571428571,2.428571429,3.2,4
+Male,18-25,Student,Daily,Per Journey,"Holiday, Transport",Yes,15 - 20 minutes,3.714285714,3.428571429,3,3.666666667
+Male,18-25,Student,Weekly,Season,"Personal, Transport",Yes,10  - 15 minutes,4,2.714285714,4.6,5
+Female,18-25,Student,A few times a year,Per Journey,"Business, Personal, Transport",Yes,10  - 15 minutes,1.571428571,2.428571429,3.6,4.333333333
+Female,18-25,Student,Daily,Per Journey,Holiday,No,10  - 15 minutes,2.428571429,3,3,4
+Female,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Personal,No,10  - 15 minutes,2.714285714,3.285714286,4.2,4
+Female,18-25,Employed (Full-time/Part-time),Daily,Season,Holiday,Yes,10  - 15 minutes,2.571428571,1.428571429,5,4.333333333
+Male,18-25,Student,Monthly,Per Journey,"Social, Transport",No,10  - 15 minutes,3.285714286,2.428571429,4.6,4.333333333
+Male,18-25,Student,A few times a year,Per Journey,Transport,Yes,10  - 15 minutes,2.714285714,2.714285714,5,5
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,Below 10 minutes,2,2,4,4
+Female,Below 18,Student,Never,Season,Personal,No,10  - 15 minutes,1.428571429,1,4.8,5
+Female,26-35,Employed (Full-time/Part-time),Daily,Reservations,Holiday,Yes,10  - 15 minutes,2,2.857142857,4,4
+Male,26-35,Self-employed,A few times a year,Per Journey,Business,Yes,10  - 15 minutes,2.571428571,2.142857143,4.2,5
+Female,18-25,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,10  - 15 minutes,2.285714286,2.285714286,4.8,5
+Male,18-25,Student,Weekly,Per Journey,Transport,Yes,10  - 15 minutes,4.571428571,3.428571429,4.4,5
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,Below 10 minutes,3,2.857142857,3.6,4
+Male,18-25,Employed (Full-time/Part-time),Monthly,Per Journey,"Personal, Transport",Yes,10  - 15 minutes,3.428571429,2.714285714,4,4.333333333
+Female,18-25,Employed (Full-time/Part-time),Daily,Reservations,Holiday,Yes,Below 10 minutes,1.714285714,1.428571429,4,3.666666667
+Female,18-25,Student,Daily,Per Journey,Personal,Yes,Below 10 minutes,3.857142857,2.142857143,4,4
+Male,18-25,Student,Daily,Per Journey,"Personal, Holiday, Transport",Yes,10  - 15 minutes,3.428571429,2.857142857,4,4.333333333
+Male,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,10  - 15 minutes,2.857142857,1.714285714,5,4.666666667
+Male,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Holiday,Yes,10  - 15 minutes,2.571428571,2.571428571,4,4
+Male,18-25,Student,Daily,Reservations,Personal,Yes,10  - 15 minutes,2.571428571,2.428571429,3.8,3.666666667
+Female,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,10  - 15 minutes,2.857142857,2.714285714,3,3.333333333
+Male,36-45,Employed (Full-time/Part-time),Weekly,Per Journey,"Personal, Holiday, Transport",Yes,10  - 15 minutes,3.857142857,3.285714286,3.6,4
+Male,18-25,Employed (Full-time/Part-time),Monthly,Per Journey,"Personal, Social, Transport",Yes,10  - 15 minutes,4.714285714,4.142857143,4,4
+Male,18-25,Unemployed,Weekly,Per Journey,"Personal, Transport",Yes,Below 10 minutes,3.428571429,3.285714286,4.4,5
+Male,26-35,Employed (Full-time/Part-time),A few times a year,Season,Transport,Yes,10  - 15 minutes,3.857142857,3.714285714,4.2,4
+Male,18-25,Employed (Full-time/Part-time),Daily,Per Journey,"Personal, Holiday",No,10  - 15 minutes,3,2.142857143,3.8,4
+Female,18-25,Student,Daily,Per Journey,"Personal, Holiday",Yes,10  - 15 minutes,2.285714286,2.142857143,3.6,4
+Male,18-25,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,10  - 15 minutes,2,1.857142857,4,4
+Female,18-25,Student,Never,Per Journey,Transport,Yes,10  - 15 minutes,3.428571429,3,3,3
+Female,18-25,Student,Weekly,Season,Transport,Yes,10  - 15 minutes,2,2,3.8,4
+Male,18-25,Employed (Full-time/Part-time),Daily,Per Journey,Holiday,Yes,10  - 15 minutes,3.571428571,3.142857143,4.6,5
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,Below 10 minutes,3.428571429,2.428571429,3.4,4
+Male,18-25,Employed (Full-time/Part-time),Daily,Reservations,"Personal, Holiday",Yes,10  - 15 minutes,2.142857143,2.142857143,4.8,5
+Male,18-25,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,Below 10 minutes,1,1,5,5
+Male,26-35,Employed (Full-time/Part-time),Daily,Reservations,"Personal, Holiday",Yes,10  - 15 minutes,3.571428571,2.571428571,4.4,4
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,Below 10 minutes,1.857142857,2.142857143,4.6,5
+Female,18-25,Student,Daily,Per Journey,"Personal, Transport",Yes,10  - 15 minutes,2.857142857,3.142857143,4.2,4
+Female,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,10  - 15 minutes,1.428571429,2.285714286,4,4.333333333
+Female,18-25,Student,Daily,Reservations,"Holiday, Transport",Yes,Below 10 minutes,3.142857143,2.714285714,4.4,5
+Female,18-25,Student,Daily,Per Journey,"Personal, Holiday",Yes,10  - 15 minutes,3.571428571,2.857142857,4,4.333333333
+Female,18-25,Student,Weekly,Per Journey,"Personal, Transport",No,10  - 15 minutes,3.142857143,3.571428571,3.4,3
+Female,18-25,Self-employed,Monthly,Season,Holiday,Yes,Below 10 minutes,3,3.142857143,2.6,4.333333333
+Female,18-25,Student,Weekly,Per Journey,"Personal, Holiday, Transport",Yes,Below 10 minutes,3,3,3,3
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,10  - 15 minutes,3.857142857,2.428571429,3.6,3.666666667
+Female,18-25,Student,Daily,Per Journey,"Personal, Holiday",Yes,10  - 15 minutes,2.714285714,2,4,4
+Female,18-25,Student,Monthly,Per Journey,"Personal, Transport",Yes,10  - 15 minutes,3.714285714,3.428571429,2.8,3.333333333
+Male,18-25,Student,Daily,Reservations,Personal,Yes,Below 10 minutes,4.428571429,4.142857143,1.8,3.666666667
+Female,18-25,Student,Daily,Per Journey,"Personal, Holiday",Yes,10  - 15 minutes,3.285714286,2.571428571,3.6,3.333333333
+Male,46-60,Self-employed,Monthly,Per Journey,Personal,Yes,15 - 20 minutes,4.142857143,3.142857143,4.2,4.666666667
+Male,18-25,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,10  - 15 minutes,2.857142857,3.142857143,3.4,3
+Female,18-25,Student,Weekly,Per Journey,Personal,Yes,10  - 15 minutes,3.428571429,3.285714286,4.6,4.333333333
+Female,18-25,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,Below 10 minutes,3.285714286,2.428571429,3.2,3
+Female,18-25,Employed (Full-time/Part-time),Daily,Per Journey,Holiday,Yes,10  - 15 minutes,3.714285714,3.571428571,4.4,4
+Female,18-25,Student,Monthly,Per Journey,"Personal, Holiday, Transport",Yes,10  - 15 minutes,1.428571429,1.428571429,5,5
+Female,18-25,Student,Weekly,Per Journey,Personal,Yes,15 - 20 minutes,3.857142857,3.142857143,4.2,5
+Female,18-25,Student,A few times a year,Per Journey,Transport,Yes,Above 20 minutes,4.142857143,3.142857143,4,4.666666667
+Female,18-25,Student,Daily,Per Journey,Transport,No,10  - 15 minutes,3,2.285714286,3.8,4.333333333
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,10  - 15 minutes,2.714285714,3.142857143,4.6,4.333333333
+Female,18-25,Student,Daily,Per Journey,Personal,Yes,10  - 15 minutes,3.285714286,2.857142857,5,5
+Female,26-35,Employed (Full-time/Part-time),Daily,Per Journey,Personal,Yes,10  - 15 minutes,3.285714286,3.857142857,4.4,5
+Female,26-35,Employed (Full-time/Part-time),Monthly,Per Journey,Transport,Yes,10  - 15 minutes,2.142857143,2.714285714,4.6,4
+Female,18-25,Student,Daily,Season,Personal,Yes,10  - 15 minutes,2.857142857,2,4,4
+Female,18-25,Student,Daily,Season,Transport,Yes,Below 10 minutes,2.142857143,1.857142857,4,4.666666667
+Female,18-25,Student,Daily,Per Journey,Holiday,Yes,10  - 15 minutes,1.571428571,1.857142857,4.2,4.333333333
+Female,18-25,Student,Daily,Reservations,"Personal, Transport",Yes,10  - 15 minutes,3.571428571,3,4.6,5
+Female,18-25,Unemployed,Weekly,Per Journey,Personal,Yes,15 - 20 minutes,4.142857143,3,3.6,4.666666667
+Male,36-45,Employed (Full-time/Part-time),A few times a year,Season,Personal,Yes,Below 10 minutes,4.285714286,3,4.6,5
+Female,18-25,Student,Monthly,Per Journey,Holiday,Yes,15 - 20 minutes,4.142857143,3.142857143,4.8,5
+Male,26-35,Self-employed,Weekly,Reservations,Business,Yes,15 - 20 minutes,4.714285714,3.857142857,5,5
+Female,18-25,Student,A few times a year,Per Journey,"Social, Transport",Yes,15 - 20 minutes,4.714285714,3.857142857,5,5
+Male,Below 18,Student,Weekly,Per Journey,"Personal, Holiday, Transport",Yes,Above 20 minutes,4.571428571,3.714285714,4.8,5
+Male,26-35,Unemployed,Weekly,Per Journey,"Social, Transport",Yes,Above 20 minutes,4.428571429,4,4.6,5
+Male,18-25,Unemployed,A few times a year,Per Journey,"Social, Holiday, Transport",Yes,Above 20 minutes,4.285714286,4,4.4,4
+Male,36-45,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Above 20 minutes,4.571428571,3.857142857,4.4,5
+Female,18-25,Self-employed,Monthly,Per Journey,Social,Yes,Above 20 minutes,4.428571429,4,4,4
+Male,46-60,Retired,Monthly,Per Journey,Holiday,Yes,Above 20 minutes,4.714285714,3.857142857,5,5
+Male,18-25,Student,A few times a year,Per Journey,"Personal, Transport",Yes,Above 20 minutes,4.714285714,3.714285714,4,4.666666667
+Male,18-25,Student,A few times a year,Per Journey,Personal,No,Above 20 minutes,4.571428571,4,5,5
+Male,Below 18,Student,Monthly,Per Journey,Holiday,Yes,Above 20 minutes,4.571428571,4,5,5
+Male,Below 18,Student,Weekly,Per Journey,Personal,Yes,Above 20 minutes,4.571428571,3.857142857,5,5
+Male,18-25,Self-employed,Weekly,Per Journey,Business,Yes,Above 20 minutes,4.142857143,3.571428571,5,5
+Male,18-25,Student,Weekly,Per Journey,Transport,Yes,15 - 20 minutes,4.571428571,4.142857143,4,4
+Male,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,15 - 20 minutes,4.428571429,3.428571429,4,4
+Male,Below 18,Student,Weekly,Per Journey,Transport,Yes,15 - 20 minutes,4.571428571,3.285714286,4,4
+Male,Below 18,Student,A few times a year,Per Journey,Personal,Yes,15 - 20 minutes,3.857142857,3.857142857,5,5
+Male,18-25,Student,A few times a year,Per Journey,Transport,Yes,15 - 20 minutes,3.857142857,3.428571429,4,5
+Male,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,15 - 20 minutes,4.571428571,4,4,4
+Male,36-45,Self-employed,Weekly,Per Journey,Holiday,Yes,15 - 20 minutes,3.857142857,3.285714286,5,5
+Male,Below 18,Student,Monthly,Per Journey,Personal,Yes,15 - 20 minutes,3.857142857,3.428571429,4,4
+Female,46-60,Self-employed,A few times a year,Per Journey,Personal,Yes,Below 10 minutes,4.285714286,3.714285714,5,5
+Male,46-60,Employed (Full-time/Part-time),Weekly,Per Journey,Business,Yes,Below 10 minutes,4.571428571,3.857142857,5,5
+Female,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,"Business, Personal",Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,26-35,Self-employed,A few times a year,Per Journey,Business,Yes,Below 10 minutes,4.571428571,3.857142857,5,5
+Male,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.571428571,3.857142857,5,5
+Female,36-45,Unemployed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.571428571,3.857142857,5,5
+Female,26-35,Unemployed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.571428571,3.857142857,5,5
+Female,26-35,Unemployed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,36-45,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Self-employed,A few times a year,Per Journey,Business,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,36-45,Unemployed,A few times a year,Per Journey,Personal,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,26-35,Self-employed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,46-60,Retired,Weekly,Per Journey,Personal,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,46-60,Retired,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,46-60,Self-employed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,26-35,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,26-35,Employed (Full-time/Part-time),Weekly,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,46-60,Retired,Weekly,Per Journey,Personal,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Female,36-45,Self-employed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Self-employed,A few times a year,Per Journey,Business,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Unemployed,Weekly,Per Journey,Social,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Self-employed,A few times a year,Per Journey,Personal,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,36-45,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,46-60,Employed (Full-time/Part-time),A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,26-35,Self-employed,A few times a year,Per Journey,Personal,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,26-35,Self-employed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
+Male,46-60,Unemployed,A few times a year,Per Journey,Transport,Yes,Below 10 minutes,4.714285714,3.857142857,5,5
